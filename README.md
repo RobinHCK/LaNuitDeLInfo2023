@@ -5,7 +5,7 @@
   <h4 align="center">Les Dodos Insomniaques</h4>
 </p>
 
-![worldwide gaz emission](https://github.com/RobinHCK/LaNuitDeLInfo2023/blob/master/vis_gif.png)
+![worldwide gaz emission](https://github.com/RobinHCK/LaNuitDeLInfo2023/blob/master/vis_gif.gif)
 
 <!-- Sommaire -->
 ## Sommaire
