@@ -5,7 +5,7 @@
   <h4 align="center">Les Dodos Insomniaques</h4>
 </p>
 
-![vis_gif](https://github.com/RobinHCK/LaNuitDeLInfo2023/blob/master/vis_gif.gif)
+![vis_gif](https://github.com/RobinHCK/LaNuitDeLInfo2023/assets/47355214/e5329b84-5fe4-4f54-bed4-505893eebcef)
 
 <!-- Sommaire -->
 ## Sommaire
